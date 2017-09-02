@@ -5,8 +5,6 @@ article, aside, canvas, details, embed, figure, figcaption, footer, header, menu
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
-    font: inherit;
     vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
